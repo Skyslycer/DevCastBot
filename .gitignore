@@ -1,3 +1,5 @@
-/.gradle/
-/build/
-/.idea/
+.gradle
+logs
+language
+build
+.idea
